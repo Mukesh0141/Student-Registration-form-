@@ -1,4 +1,4 @@
-//# Student-Registration-form-
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
